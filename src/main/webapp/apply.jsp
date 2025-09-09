@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Online Recruitment Form</title>
-</head>
-<body>
     <h2>Apply for a Job</h2>
     
     <form action="apply.jsp" method="post">
