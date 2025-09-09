@@ -43,6 +43,7 @@
         <p><b>Phone:</b> <%= phone %></p>
         <p><b>Skills:</b> <%= skills %></p>
         <p><b>Position Applied For:</b> <%= position %></p>
+	<p>new linw</p>
     <%
         }
     %>
